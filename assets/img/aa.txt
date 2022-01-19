@@ -1,0 +1,6 @@
+Ariadna: 6
+Miquel: 2
+Dudu: 2
+Guille: 1
+Carles: 2
+Morte: 3
